@@ -1,0 +1,3 @@
+name/id/1234/address/details
+example/idex/12345/example/6/9
+name/id1/123456/exam/69
